@@ -1,5 +1,10 @@
 # SerreProjet
 
+Ce projet est un projet IOT quit était fait par des étudiants de 5ASE ESIEA.
+
+Dans le cadre du cours sur les objets connectés faible consommation, nous avons analysé les serres agricoles en vue d’une optimisation. L’optimisation d’une serre permet de mieux s’occuper des plantes en contrôlant les conditions de leurs environnements. Nous avons étudié le fonctionnement des serre agricoles afin de comprendre les points à améliorer pour obtenir une meilleure structure de production végétale. Une analyse a également été faite du point de vue de l’optimisation technique, de la communication et de l’entretien. Un des principaux avantages de la serre agricole réside dans le rendement régulier des végétaux dans la structure par rapport aux cultures extérieures. Elle offre des conditions microclimatiques optimisé pour les plantes. Mais maintenir un total contrôle manuel sur la régulation et l’entretien de la serre reste fastidieux et inadapté par rapport aux différents types d’automatisation disponible de nos jours. Nous avons donc pour objectif d’optimiser l’ouverture du toit de la serre ainsi que de répondre aux besoins de l’agriculteur. L’optimisation technique sera majoritairement localisée sur le toit de la structure. Le contrôle du toit permet de mieux contrôler les conditions intérieures comme les aléas climatiques extérieures. Nous présenterons donc dans un premier temps les objectifs pour le toit de la serre suivi par les objectifs à atteindre pour répondre aux besoins de l’agriculteur. Pour conclure la partie nous présenterons nos objectifs pour l’optimisation énergétique de notre projet. 
+
+
 ## Ouverture et fermeture du serre :
 
 ![image](https://user-images.githubusercontent.com/64897189/135770997-b69130b9-7e1d-4158-a9e0-d41b961ae791.png)
